@@ -1,8 +1,5 @@
-import streamlit as st
+# LinkedIn URL Resolver
 
-st.title("LinkedIn URL Resolver")
-
-st.markdown("""
 **Description:**  
 This tool allows you to paste your LinkedIn post containing shortened URLs (e.g. lnkd.in) and automatically resolves them into their original full links, saving you time and effort when sharing or analyzing posts.
 
